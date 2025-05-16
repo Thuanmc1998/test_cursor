@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Retail Strategy and Analytics
 
 This project analyzes transaction data and customer purchase behavior for a retail client, focusing on chips category.
@@ -61,3 +62,6 @@ The script will generate:
 4. **Brand Affinity Analysis**:
    - Focus on young singles/couples segment
    - Compare brand preferences against other segments 
+=======
+# test_cursor
+>>>>>>> 154de8d3799f96e68b704a7514048a9eeecb494b
